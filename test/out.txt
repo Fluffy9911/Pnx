@@ -1,0 +1,59 @@
+Hello, world!
+{
+  "raw": "prg",
+  "ttype": {
+    "name": "prg",
+    "group": "PRG"
+  },
+  "type": "PRG",
+  "children": [
+    {
+      "raw": "",
+      "ttype": {
+        "name": "string_literal",
+        "group": "TYPE"
+      },
+      "type": "TYPE"
+    },
+    {
+      "raw": "public",
+      "ttype": {
+        "name": "string_literal",
+        "group": "TYPE"
+      },
+      "type": "TYPE"
+    },
+    {
+      "raw": "class",
+      "ttype": {
+        "name": "string_literal",
+        "group": "TYPE"
+      },
+      "type": "TYPE"
+    },
+    {
+      "raw": "Tester",
+      "ttype": {
+        "name": "string_literal",
+        "group": "TYPE"
+      },
+      "type": "TYPE"
+    },
+    {
+      "raw": "}",
+      "ttype": {
+        "name": "right_brace",
+        "group": "SYMBOL"
+      },
+      "type": "SYMBOL"
+    },
+    {
+      "raw": "",
+      "ttype": {
+        "name": "string_literal",
+        "group": "TYPE"
+      },
+      "type": "TYPE"
+    }
+  ]
+}
